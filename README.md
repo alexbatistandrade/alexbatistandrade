@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div>
-<a href = "mailto:alexbatistandrade@gmail.com">
+<a href = "mailto:alexbatistandrade@gmail.com"/>
 <img src="https://github-readme-stats.vercel.app/api?username=alexbatistandrade&show_icons=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexbatistandrade&hide_progress=true" />
 </picture>
