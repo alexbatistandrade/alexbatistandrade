@@ -3,7 +3,7 @@
 <div>
 <a href = "mailto:alexbatistandrade@gmail.com"/>
 <img src="https://github-readme-stats.vercel.app/api?username=alexbatistandrade&show_icons=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexbatistandrade&layout=compact&langs_count=16&theme=#"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexbatistandrade"/>
 </picture>
 </div>
 
