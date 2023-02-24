@@ -1,5 +1,3 @@
-### Oi, Eu sou o Alex Andrade  👋
-
 <div>
 <a href = "mailto:alexbatistandrade@gmail.com"/>
 <img src="https://github-readme-stats.vercel.app/api?username=alexbatistandrade&show_icons=true" />
