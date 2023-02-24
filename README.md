@@ -1,9 +1,9 @@
-### Hi there 👋
+### Oi, Eu sou o Alex Andrade  👋
 
 <div>
 <a href = "mailto:alexbatistandrade@gmail.com"/>
 <img src="https://github-readme-stats.vercel.app/api?username=alexbatistandrade&show_icons=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexbatistandrade&hide_progress=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexbatistandrade&layout=compact&langs_count=16&theme=#"/>
 </picture>
 </div>
 
@@ -22,12 +22,10 @@
 ##
 
 <div> 
-   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
-   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" target="_blank"></a>
-   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white"></a> 
-  <a href = "mailto:alexbatistandrade@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/alex-andradev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  
-</div>
+ <a href="#" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
+ <a href="#" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" target="_blank"></a>
+ <a href="#" target="_blank"><img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white"></a> 
+ <a href = "mailto:alexbatistandrade@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/alex-andradev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
+</div>
